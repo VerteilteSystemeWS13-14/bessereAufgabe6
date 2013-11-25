@@ -1,0 +1,2 @@
+bessereAufgabe6
+===============
